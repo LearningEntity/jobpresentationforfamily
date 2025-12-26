@@ -32,7 +32,7 @@ transition: fade-out
 Über was rede ich heute?
 
 - Kurzvorstellung
-- Mein Team Purpose
+- Platform Engineering
 - Meine Aufgaben & Zuständigkeiten
 - Was ich an meinem Job mag
 - Was ich NICHT mache
@@ -50,12 +50,33 @@ level: 2
 - Ausbildung zum Fachinformatiker für Systemintegration
 - System Engineer bei Georg Thieme Verlag KG
 - Anlass des Vortrags
+
+---
+transition: slide-up
+---
+# 3 Wahrheiten, eine Lüge
+
+  Ich öffne jeden Tag mindestens 100 Browser-Tabs
+  Der häufigste Fix eines IT-Incidents ist ein Neustart
+  Ich übernehme Verantwortung für kritische Infrastruktur.
+  Ich habe einen geheimen Server, auf dem ich Katzenvideos hoste.#
+
+---
+transition: slide-up
+---
+
+# Was mache ich in meinem Job?
+
+❌ Ich habe einen roten „Reset“-Knopf für das gesamte Unternehmen.
+✅ Ich öffne jeden Tag mindestens 100 Browser-Tabs
+✅ Der häufigste Fix eines IT-Incidents ist ein Neustart
+❌ Ich habe einen geheimen Server, auf dem ich Katzenvideos hoste.
 ---
 layout: cover
 
 ---
 
-# Team Purpose
+# Platform Engineering
 
 ---
 transition: slide-up
