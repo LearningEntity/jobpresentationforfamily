@@ -116,8 +116,8 @@ image: https://cyclingmagazine.ca/wp-content/uploads/2024/01/MvdPHoogerheide-120
 # Was ich an meinem Job mag
 
 - Verantwortungsübernahme
-- stetige Weiterentwicklung der fachlichen Kompetenzen
-- selbstbestimmtes Arbeiten
+- Stetige Weiterentwicklung der fachlichen Kompetenzen
+- Selbstbestimmtes Arbeiten
 - Starke Systemkomplexität
 - Super cooles Team
 - Flexibles Arbeiten
