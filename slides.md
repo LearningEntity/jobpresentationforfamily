@@ -88,39 +88,41 @@ layout: cover
 # Platform Engineering
 
 ---
-transition: slide-up
-layout: image
-image: https://www.thinkwisesoftware.com/hs-fs/hubfs/Amanda%20-%20Files/DevOps%20Lifecycle.png?width=3000&height=1332&name=DevOps%20Lifecycle.png
+layout: default
 backgroundSize: contain
+image: https://www.thinkwisesoftware.com/hs-fs/hubfs/Amanda%20-%20Files/DevOps%20Lifecycle.png?width=3000&height=1332&name=DevOps%20Lifecycle.png
+
 ---
 
 # SDLC
 
+<img src="https://www.thinkwisesoftware.com/hs-fs/hubfs/Amanda%20-%20Files/DevOps%20Lifecycle.png?width=3000&height=1332&name=DevOps%20Lifecycle.png">
+
 ---
-transition: slide-up
-layout: image
+layout: default
 image: https://cdn.prod.website-files.com/61a5f3107556b374f910fb2f/66fc0758898e640c3a13f1ae_66e93af6580c12e24b391a06_66e2ec9cc2e6b751af0a53db_66e2da89c2e6b751aff8d6be_Platform-Engineering-Entwicklungsteams.webp
 backgroundSize: contain
 ---
 
-# Team Purpose
+# Aufbau Platform Team
 
-
+<img src="https://cdn.prod.website-files.com/61a5f3107556b374f910fb2f/66fc0758898e640c3a13f1ae_66e93af6580c12e24b391a06_66e2ec9cc2e6b751af0a53db_66e2da89c2e6b751aff8d6be_Platform-Engineering-Entwicklungsteams.webp">
 
 ---
 transition: slide-up
-layout: image
+layout: default
 image: https://static1.squarespace.com/static/5fae71e8a363746603cda3ad/t/67c557629cae43219d52581c/1740986214869/Platform+Engineering+-+Page+1-7.png?format=1500w
 backgroundSize: contain
 ---
 
 # Benefits
 
-
+<img src="https://static1.squarespace.com/static/5fae71e8a363746603cda3ad/t/67c557629cae43219d52581c/1740986214869/Platform+Engineering+-+Page+1-7.png?format=1500w">
 
 ---
 transition: slide-up
-layout: default
+layout: image-right
+image: https://ginnabaker.wordpress.com/wp-content/uploads/2015/05/blurred_gnitty_screen_shot.png
 ---
 
 # Meine Aufgaben
@@ -134,6 +136,8 @@ layout: default
 
 ---
 transition: slide-up
+layout: image-right
+image: https://cyclingmagazine.ca/wp-content/uploads/2024/01/MvdPHoogerheide-1200x675.jpg
 ---
 
 # Was ich an meinem Job mag
@@ -150,7 +154,7 @@ transition: slide-up
 ---
 transition: slide-up
 layout: image-right
-image: https://images.unsplash.com/photo-1699550403361-27dee0f2a415
+image: https://singleblackmale.org/wp-content/uploads/2011/12/IT-GUY.jpg
 ---
 # Was ich nicht mache
 
