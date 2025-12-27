@@ -23,20 +23,6 @@ duration: 15min
 <center>
 <img src="https://media.makeameme.org/created/platform-engineer.jpg" class=light>
 </center>
----
-transition: fade-out
----
-
-# Agenda
-
-Über was rede ich heute?
-
-- Kurzvorstellung
-- Platform Engineering
-- Meine Aufgaben & Zuständigkeiten
-- Was ich an meinem Job mag
-- Was ich NICHT mache
-- Q&A
 
 ---
 transition: slide-up
